@@ -6,5 +6,11 @@
 电话：18310383196
 邮箱：1442991508@qq.com
 # 截图介绍
-
+场景地图
 ![Simulator Screen Shot - iPhone 14 - 2023-01-01 at 15 57 52 (1)](https://user-images.githubusercontent.com/40594995/210191194-e498e579-2b03-41f3-9afb-d050dede17ae.png)
+场景地图
+![Simulator Screen Shot - iPhone 14 - 2023-01-01 at 15 59 05](https://user-images.githubusercontent.com/40594995/210191230-2d2bf8c8-c290-4e43-b5b6-a0d391a66f68.png)
+场景地图
+![Simulator Screen Shot - iPhone 14 - 2023-01-01 at 15 59 16](https://user-images.githubusercontent.com/40594995/210191239-92650df8-a6f5-42c6-b054-4d8f048301ff.png)
+物品浏览
+![Simulator Screen Shot - iPhone 14 - 2023-01-02 at 10 16 21 (1)](https://user-images.githubusercontent.com/40594995/210191240-a459642d-7636-4b41-ace5-c1b3f7c81d36.png)
