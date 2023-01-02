@@ -7,3 +7,4 @@
 邮箱：1442991508@qq.com
 # 截图介绍
 
+![Simulator Screen Shot - iPhone 14 - 2023-01-01 at 15 57 52 (1)](https://user-images.githubusercontent.com/40594995/210191194-e498e579-2b03-41f3-9afb-d050dede17ae.png)
